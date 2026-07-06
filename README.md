@@ -13,6 +13,7 @@
 - 🌱 Currently learning **Java, Selenium, SQL, TestNG & Maven**
 - 🚀 Interested in **Software Development, QA Automation & SDET**
 - 🧪 Building Manual Testing & Selenium Automation Projects
+- 📚 Solving LeetCode Problems Daily
 - 📫 Email: **debdeep.it.aec@gmail.com**
 
 ---
@@ -60,15 +61,29 @@
 - 🏋️ Gym Website
 - 🧪 Selenium Automation Framework
 - ✅ Manual Testing Project
-- 🛋️ Furniture Shop
+- 💻 LeetCode Java Solutions
 - 🏥 MediPulse (Final Year Team Project)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dpanja1234&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=dpanja1234&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpanja1234&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dpanja1234/dpanja1234/output/github-contribution-grid-snake-dark.svg" />
+</p>
